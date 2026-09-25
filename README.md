@@ -1,12 +1,14 @@
 # Argentine air traffic, 2015–2019
 
+**English** | [Español](README.es.md)
+
 Did the Argentine commercial aviation map change between 2015 and 2019?
 This project explores changes in recorded activity and connections between
 cities, with a closer look at northern Argentina.
 
-[Read the report](https://ca90m.github.io/TP-Aeropuertos/TpAeropuertos_.html)
+[Read the report in English](https://ca90m.github.io/TP-Aeropuertos/TpAeropuertos.en.html) | [Leer en español](https://ca90m.github.io/TP-Aeropuertos/TpAeropuertos_.html)
 
-*Report in Spanish. Code is folded by default; use the “Code” menu to show it.*
+*Both reports include a language selector. Code is folded by default; use the “Code” menu to show it. The English report retains the original R variable names and comments.*
 
 ## Data
 
